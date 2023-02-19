@@ -1,6 +1,8 @@
 data/old
 data/raw
 data/zips
+data/extracts
+# data/processed
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,data,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,data,jupyternotebooks
